@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #111;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    margin-top: 80px;
+}
+
+h1 {
+    color: #ff3b3b;
+}
+
+#sosBtn {
+    background: red;
+    color: white;
+    font-size: 30px;
+    padding: 20px 60px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+#sosBtn:hover {
+    background: darkred;
+}
+
+#output {
+    margin-top: 30px;
+}
+
+#policeList {
+    margin-top: 20px;
+}
